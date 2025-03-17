@@ -1,2 +1,2 @@
 # kugua.github.io
-[](https://github.com/zckugua/kugua.github.io/edit/main/Untitiled.html)
+[](https://github.com/zckugua/kugua.github.io/blob/main/Untitled.html)
