@@ -2,6 +2,7 @@
 
 本笔记总结了在研究钙钛矿（perovskite）结构时，如何选择和理解不同原胞（primitive cell）与单胞（conventional cell），以及它们在计算弹性常数、结构优化、相变分析等场景中的区别和联系。
 
+![钙钛矿结构示意图](../images/cubic_vs_tetragonal_cells.png)
 ---
 
 ## 1. 是否可以使用 cubic-Pv 原胞构建 tetragonal 相结构？
