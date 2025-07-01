@@ -1,4 +1,4 @@
-# 原胞 vs 单胞：cubic 与 tetragonal 相研究总结（详细版）
+# 原胞 vs 单胞：cubic 与 tetragonal 相研究总结
 
 本笔记总结了在研究钙钛矿（perovskite）结构时，如何选择和理解不同原胞（primitive cell）与单胞（conventional cell），以及它们在计算弹性常数、结构优化、相变分析等场景中的区别和联系。
 
