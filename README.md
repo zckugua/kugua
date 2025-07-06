@@ -5,3 +5,4 @@
 - [相变分类与朗道相变理论](./notes/25_7_2_phase_transition.md)
 ## 📘 journal笔记
 - [SrTiO3: Thoroughly Investigated but Still Good for Surprises](./notes/25_7_3_SrTiO3_note1.md)
+- [Structural phase transitions in SrTiO₃ from deep potential molecular dynamics](./notes/25_7_3_SrTiO3_note2.md)
